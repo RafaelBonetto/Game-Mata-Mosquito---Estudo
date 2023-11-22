@@ -28,7 +28,7 @@ Evite perder vidas mantendo-se atento ao cronômetro.
 O jogo termina quando o tempo acaba ou todas as vidas são perdidas.
 Divirta-se matando mosquitos!
 
-##Autor
+## Autor
 
 
 Rafael Bonetto
