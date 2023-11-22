@@ -8,8 +8,11 @@ Este é um jogo simples desenvolvido em HTML, CSS e JavaScript, onde o objetivo 
 O projeto é dividido em três arquivos HTML:
 
 index.html: Página inicial do jogo, onde o jogador escolhe o nível de dificuldade antes de iniciar o jogo.
+
 game_over.html: Página exibida quando o jogador perde todas as vidas durante o jogo. Permite reiniciar o jogo.
+
 vitoria.html: Página exibida quando o jogador completa o jogo dentro do tempo estipulado. Permite reiniciar o jogo.
+
 O estilo do jogo é customizado utilizando um arquivo CSS externo (estilo.css), proporcionando uma aparência atraente aos elementos HTML.
 
 ## Funcionalidades
